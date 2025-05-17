@@ -9,10 +9,10 @@ StoreFrontX is a full-stack e-commerce product catalog application with a Java S
 
 ## 🚀 Features
 
-Product management with categories
-RESTful API using Spring Boot
-React-based frontend with dynamic UI
-Cross-origin enabled for API access
+Product management with categories,
+RESTful API using Spring Boot,
+React-based frontend with dynamic UI,
+Cross-origin enabled for API access,
 GitHub-integrated CI/CD ready
 
 ---
